@@ -27,7 +27,7 @@ body {
   width: 500px;
   margin: 0 auto 0;
 }
-#add-block{
+#add-block {
   margin-block: 1em;
 }
 .add-block__input,
@@ -49,7 +49,7 @@ h3 {
   list-style: none;
 }
 input,
-button{
+button {
   outline: none;
 }
 .btn {
